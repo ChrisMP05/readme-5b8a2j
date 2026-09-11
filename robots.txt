@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ChrisMP05.github.io/readme-5b8a2j/sitemap.xml
